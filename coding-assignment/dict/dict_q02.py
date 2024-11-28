@@ -4,5 +4,5 @@
 
 my_dict = {'name': 'Bob', 'age': 22}
 print(my_dict.get('age'))         # Output: 22
-print(my_dict.get('city', 'N/A')) # Output: N/A (default value if key doesn't exist)
+print(my_dict.get('city', 'N/A')) # Output: N/A (default value if key doesn't exist) 
 
