@@ -11,3 +11,4 @@ print(sorted_by_keys)  # Output: {'apple': 5, 'banana': 2, 'mango': 3, 'orange':
 # Sort by values
 sorted_by_values = dict(sorted(my_dict.items(), key=lambda item: item[1]))
 print(sorted_by_values)  # Output: {'banana': 2, 'mango': 3, 'apple': 5, 'orange': 8}
+ 
