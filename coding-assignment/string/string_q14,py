@@ -1,0 +1,12 @@
+# 14. Check if String is a Subsequence
+# Write a program to check if one string is a subsequence of another string.
+string1 = "abc"
+string2 = "aabbcc"
+i = 0
+for char in string2:
+    if i < len(string1) and string1[i] == char:
+        i += 1
+if i == len(string1):
+    print("Subsequence")  # Output: "Subsequence"
+else:
+    print("Not Subsequence")
