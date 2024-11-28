@@ -5,3 +5,4 @@ def remove_duplicates(lst):
 
 # Example usage
 print(remove_duplicates([1, 2, 2, 3, 4, 4, 5]))  # Output: [1, 2, 3, 4, 5]
+ 
