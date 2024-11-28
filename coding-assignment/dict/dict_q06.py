@@ -5,3 +5,4 @@
 my_dict = {'John': 25, 'Alice': 35, 'Bob': 40, 'Eve': 22}
 my_dict = {k: v for k, v in my_dict.items() if v <= 30}
 print(my_dict)  # Output: {'John': 25, 'Eve': 22}
+ 
