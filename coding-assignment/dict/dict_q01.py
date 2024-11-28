@@ -8,4 +8,4 @@ my_dict = {
 }
 print(my_dict['person1']['name'])  # Output: John
 print(my_dict['person2']['age'])   # Output: 30
-
+ 
