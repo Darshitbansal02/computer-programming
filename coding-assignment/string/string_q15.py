@@ -1,9 +1,9 @@
 # 15. Remove Consecutive Duplicates
 # Write a program to remove consecutive duplicate characters from a string.
-string = "aaabbccdee"
+input_string = "aaabbccdee"
 result = ""
 previous_char = ""
-for char in string:
+for char in input_string:
     if char != previous_char:
         result += char
     previous_char = char
