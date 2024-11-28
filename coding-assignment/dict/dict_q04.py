@@ -1,6 +1,6 @@
-4. Dictionary Comprehension
+# 4. Dictionary Comprehension
 
-Problem: You need to create a dictionary from a list of keys, with values being their squares.
+# Problem: You need to create a dictionary from a list of keys, with values being their squares.
 
 numbers = [1, 2, 3, 4, 5]
 squares_dict = {num: num**2 for num in numbers}
