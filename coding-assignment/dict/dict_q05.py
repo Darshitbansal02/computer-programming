@@ -1,4 +1,4 @@
-# 4. Counting Occurrences of Items Using a Dictionary
+# 5. Counting Occurrences of Items Using a Dictionary
 
 # Problem: You want to count the occurrences of items in a list and store the result in a dictionary.
 
